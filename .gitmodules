@@ -1,0 +1,6 @@
+[submodule "content/c"]
+	path = content/c
+	url = https://github.com/conreality/conreality.c.git
+[submodule "content/cpp"]
+	path = content/cpp
+	url = https://github.com/conreality/conreality.cpp.git
