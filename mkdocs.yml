@@ -19,3 +19,14 @@ theme: material
 # Table of contents (TOC):
 nav:
   - Introduction: index.md
+  - Installation: install.md
+  - Getting Started: start.md
+  - Concepts: concepts.md
+  - Tutorials: learn/index.md
+  - Languages:
+    - C: c/README.md
+    - C++: cpp/README.md
+  - FAQs:
+    - General Questions: faq/general.md
+  - Release Notes: history.md
+  - Glossary: glossary.md
