@@ -19,7 +19,10 @@ theme: material
 # Table of contents (TOC):
 nav:
   - Introduction: index.md
-  - Installation: install.md
+  - Installation:
+    - Linux: install/linux.md
+    - macOS: install/macos.md
+    - Windows: install/windows.md
   - Getting Started: start.md
   - Concepts: concepts.md
   - Tutorials: learn/index.md
