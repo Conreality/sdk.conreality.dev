@@ -20,6 +20,9 @@ theme: material
 plugins:
   - search
   - macros
+  - mermaid2:
+      arguments:
+        theme: neutral
 
 # Table of contents (TOC):
 nav:
@@ -38,3 +41,7 @@ nav:
     - General Questions: faq/general.md
   - Release Notes: history.md
   - Glossary: glossary.md
+
+# Mermaid plugin configuration:
+extra_javascript:
+  - https://unpkg.com/mermaid@8.5.2/dist/mermaid.min.js
