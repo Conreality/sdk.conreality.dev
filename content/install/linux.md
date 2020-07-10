@@ -28,7 +28,7 @@ On other distributions, you can build the SDK from [source code][].
 
 [source code]: https://github.com/conreality/conreality-sdk
 
-## Installation
+## Installation using APT
 
 Once you've completed the [package repository configuration](#configuration)
 (see further below), installation is as easy as the familiar:
@@ -37,7 +37,7 @@ Once you've completed the [package repository configuration](#configuration)
 $ sudo apt install conreality
 ```
 
-## Uninstallation
+### Uninstallation
 
 ```bash
 $ sudo apt purge conreality libconreality20 libconreality-dev libconreality-doc
